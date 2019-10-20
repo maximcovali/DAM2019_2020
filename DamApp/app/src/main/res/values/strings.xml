@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DamApp</string>
+    <string name="main_message">Hello World!</string>
+    <string name="main_menu_string_home">Acasa</string>
+    <string name="transfer_market">transfer market</string>
+    <string name="despre">Despre</string>
+</resources>

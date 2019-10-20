@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/main_menu_home"
+        android:title="@string/main_menu_home_title" />
+
+    <item
+        android:id="@+id/main_menu_transfer_market"
+        android:title="@string/main_menu_transfer_market" />
+
+    <item
+        android:id="@+id/main_menu_about"
+        android:title="@string/main_menu_about" />
+
+
+</menu>

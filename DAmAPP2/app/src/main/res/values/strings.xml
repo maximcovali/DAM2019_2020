@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DAmAPP</string>
+    <string name="main_tv_message">Buna lume!</string>
+    <string name="main_menu_home_title">Acasa</string>
+    <string name="main_menu_transfer_market">Transfer Market</string>
+    <string name="main_menu_about">About</string>
+</resources>
